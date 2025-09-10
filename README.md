@@ -1,10 +1,10 @@
 # Desafio de utilização e fixação das funcionalidades do **GitHub** e do **Markdown**.
 
-## Objetivos:
+## Objetivos: 
 
 ### 1. Criar sua conta do GitHub:
     * Criar uma nova conta no GitHub.
-    * Utilizar uma conta já existente. :white_check_mark:
+    * Utilizar uma conta já existente. ✅
 
 ### 2. Criar um repositório:
     * Criar um repositório no GitHub para realização desse desafio.
