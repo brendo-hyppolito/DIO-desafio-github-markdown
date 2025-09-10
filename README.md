@@ -7,9 +7,9 @@
     * Utilizar uma conta já existente. ✅
 
 ### 2. Criar um repositório:
-    * Criar um repositório no GitHub para realização desse desafio.
-    * Adicionar o arquivo README.md ao criar o repositório.
-    * Utilizar o GitHub.dev para editar o projeto diretamente no GitHub.
+    * Criar um repositório no GitHub para realização desse desafio. ✅
+    * Adicionar o arquivo README.md ao criar o repositório. ✅
+    * Utilizar o GitHub.dev para editar o projeto diretamente no GitHub. ✅
 
 ### 3. Colaboração:
     * Simular atividades de colaboração como realizar alterações, commits, issues e pull requests.
