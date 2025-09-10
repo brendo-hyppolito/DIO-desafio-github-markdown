@@ -12,8 +12,8 @@
     * Utilizar o GitHub.dev para editar o projeto diretamente no GitHub. ✅
 
 ### 3. Colaboração:
-    * Simular atividades de colaboração como realizar alterações, commits, issues e pull requests.
+    * Simular atividades de colaboração como realizar alterações, commits, issues e pull requests. ✅
     
 ### 4. Formatação com Markdown:
-    * Breve descrição do projeto.
-    * Lista de objetivos do projeto.
+    * Breve descrição do projeto. ✅
+    * Lista de objetivos do projeto. ✅
